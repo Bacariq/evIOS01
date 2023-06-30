@@ -94,7 +94,9 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="ENc-03-A0b"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Button">
+                                    <color key="baseBackgroundColor" red="0.020096515160000002" green="0.25055230519999999" blue="0.022328336720000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                </buttonConfiguration>
                                 <connections>
                                     <action selector="myLogin:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2yn-z5-kns"/>
                                 </connections>
